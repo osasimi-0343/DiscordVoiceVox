@@ -11,7 +11,7 @@ import psycopg2
 import requests as requests
 import discord
 
-token = "OTE3NjMzNjA1Njg0MDU2MDg1.Ya7i5A.vjx7pL_UBz6gxGn8kshdJeVyiUI"
+token = "OTYwMDk4MjgyMjI5NjA0MzYz.YklfNA.wc8HxQaGNw0QGrgt3Yc_vJQ2LGs"
 bot = discord.Bot()
 vclist = {}
 mclist = {}
